@@ -1,4 +1,4 @@
-package OOPS;
+package OOPS1;
 
 public class person {
     private String name;
@@ -32,6 +32,8 @@ public class person {
 //    }
 public void setAge(int age) {// Exception by using try and catch block
         try {
+
+
             if (age < 0) {
                 throw new Exception("Not valid age");
             }

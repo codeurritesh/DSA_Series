@@ -1,4 +1,4 @@
-package OOPS;
+package OOPS1;
 
 public class Person_client {
     public static void main(String[] args) {
