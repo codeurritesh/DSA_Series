@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3ea18e4-612a-4901-90cb-5c3321043b5b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Queue/Reverse_Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/Reverse_Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/Largest_Rectangle_In_Histogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/Next_Greater_Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/Stock_Span.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Series/Inheritance/Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Series/Inheritance/Child.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Series/Inheritance/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Series/Inheritance/Client.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,13 +43,13 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.Reverse_Queue">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Inheritance.Client" />
+  <component name="RunManager" selected="Application.Largest_Rectangle_In_Histogram">
+    <configuration name="Largest_Rectangle_In_Histogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack.Largest_Rectangle_In_Histogram" />
       <module name="DSA_Series" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Inheritance.*" />
+          <option name="PATTERN" value="Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Person_client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPS1.Person_client" />
+    <configuration name="Next_Greater_Element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack.Next_Greater_Element" />
       <module name="DSA_Series" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOPS1.*" />
+          <option name="PATTERN" value="Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +96,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Stock_Span" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack.Stock_Span" />
+      <module name="DSA_Series" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Largest_Rectangle_In_Histogram" />
+        <item itemvalue="Application.Stock_Span" />
+        <item itemvalue="Application.Next_Greater_Element" />
         <item itemvalue="Application.Reverse_Queue" />
         <item itemvalue="Application.Reverse_Stack" />
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Person_client" />
       </list>
     </recent_temporary>
   </component>
@@ -119,6 +132,7 @@
       <workItem from="1684429707574" duration="449000" />
       <workItem from="1684577580854" duration="1739000" />
       <workItem from="1684599535585" duration="1755000" />
+      <workItem from="1684836683344" duration="10538000" />
     </task>
     <servers />
   </component>
