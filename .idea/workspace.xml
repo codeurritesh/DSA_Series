@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3ea18e4-612a-4901-90cb-5c3321043b5b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Stack/the_132_Problem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/Number_of_Valid_Subarray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +41,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.the_132_Problem">
+  <component name="RunManager" selected="Application.Number_of_Valid_Subarray">
     <configuration name="Largest_Rectangle_In_Histogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Stack.Largest_Rectangle_In_Histogram" />
       <module name="DSA_Series" />
@@ -68,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reverse_Queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Queue.Reverse_Queue" />
+    <configuration name="Number_of_Valid_Subarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack.Number_of_Valid_Subarray" />
       <module name="DSA_Series" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Queue.*" />
+          <option name="PATTERN" value="Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Number_of_Valid_Subarray" />
         <item itemvalue="Application.the_132_Problem" />
         <item itemvalue="Application.Largest_Rectangle_In_Histogram" />
         <item itemvalue="Application.Stock_Span" />
         <item itemvalue="Application.Next_Greater_Element" />
-        <item itemvalue="Application.Reverse_Queue" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +131,7 @@
       <workItem from="1684577580854" duration="1739000" />
       <workItem from="1684599535585" duration="1755000" />
       <workItem from="1684836683344" duration="10538000" />
-      <workItem from="1685011365747" duration="3266000" />
+      <workItem from="1685011365747" duration="5970000" />
     </task>
     <servers />
   </component>
