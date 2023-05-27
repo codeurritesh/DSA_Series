@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3ea18e4-612a-4901-90cb-5c3321043b5b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Stack/Maximal_Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/Maximum_Score_of_Good_Subarray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Series/Stack/Largest_Rectangle_In_Histogram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Series/Stack/Largest_Rectangle_In_Histogram.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +42,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.Maximal_Rectangle">
+  <component name="RunManager" selected="Application.Maximum_Score_of_Good_Subarray">
     <configuration name="Celebrity_Problem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Stack.Celebrity_Problem" />
       <module name="DSA_Series" />
@@ -55,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Largest_Rectangle_In_Histogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack.Largest_Rectangle_In_Histogram" />
+    <configuration name="Maximal_Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack.Maximal_Rectangle" />
       <module name="DSA_Series" />
       <extension name="coverage">
         <pattern>
@@ -68,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maximal_Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack.Maximal_Rectangle" />
+    <configuration name="Maximum_Score_of_Good_Subarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack.Maximum_Score_of_Good_Subarray" />
       <module name="DSA_Series" />
       <extension name="coverage">
         <pattern>
@@ -109,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Maximum_Score_of_Good_Subarray" />
         <item itemvalue="Application.Maximal_Rectangle" />
         <item itemvalue="Application.Celebrity_Problem" />
         <item itemvalue="Application.Number_of_Valid_Subarray" />
         <item itemvalue="Application.the_132_Problem" />
-        <item itemvalue="Application.Largest_Rectangle_In_Histogram" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +133,9 @@
       <workItem from="1684599535585" duration="1755000" />
       <workItem from="1684836683344" duration="10538000" />
       <workItem from="1685011365747" duration="5970000" />
-      <workItem from="1685175935450" duration="7434000" />
+      <workItem from="1685175935450" duration="8833000" />
+      <workItem from="1685192072788" duration="11000" />
+      <workItem from="1685204189885" duration="2090000" />
     </task>
     <servers />
   </component>
