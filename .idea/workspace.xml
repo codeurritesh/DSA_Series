@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3ea18e4-612a-4901-90cb-5c3321043b5b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Stack/Maximum_Score_of_Good_Subarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/Minimum_String_form_from_DI_String.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Series/Stack/Largest_Rectangle_In_Histogram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Series/Stack/Largest_Rectangle_In_Histogram.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +41,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.Maximum_Score_of_Good_Subarray">
+  <component name="RunManager" selected="Application.Minimum_String_form_from_DI_String">
     <configuration name="Celebrity_Problem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Stack.Celebrity_Problem" />
       <module name="DSA_Series" />
@@ -82,6 +81,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Minimum_String_form_from_DI_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack.Minimum_String_form_from_DI_String" />
+      <module name="DSA_Series" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Number_of_Valid_Subarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Stack.Number_of_Valid_Subarray" />
       <module name="DSA_Series" />
@@ -95,26 +107,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="the_132_Problem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack.the_132_Problem" />
-      <module name="DSA_Series" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Minimum_String_form_from_DI_String" />
         <item itemvalue="Application.Maximum_Score_of_Good_Subarray" />
         <item itemvalue="Application.Maximal_Rectangle" />
         <item itemvalue="Application.Celebrity_Problem" />
         <item itemvalue="Application.Number_of_Valid_Subarray" />
-        <item itemvalue="Application.the_132_Problem" />
       </list>
     </recent_temporary>
   </component>
@@ -136,6 +135,7 @@
       <workItem from="1685175935450" duration="8833000" />
       <workItem from="1685192072788" duration="11000" />
       <workItem from="1685204189885" duration="2090000" />
+      <workItem from="1685611556791" duration="3522000" />
     </task>
     <servers />
   </component>
