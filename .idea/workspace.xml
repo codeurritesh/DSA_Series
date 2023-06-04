@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3ea18e4-612a-4901-90cb-5c3321043b5b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/LinkedList_Operations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/Node_Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/Intrsection_LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/LinkedList_Cycle_Detection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/Merge_two_sorted_LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/Middle_Element_LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/Sort_LinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Series/LinkedList/LinkedList_Operations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Series/LinkedList/LinkedList_Operations.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +52,13 @@
       <recent name="C:\Users\Dell\Desktop\DSA_Series\LinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Node_Client">
-    <configuration name="Celebrity_Problem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack.Celebrity_Problem" />
+  <component name="RunManager" selected="Application.Merge_two_sorted_LinkedList">
+    <configuration name="Intrsection_LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.Intrsection_LinkedList" />
       <module name="DSA_Series" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stack.*" />
+          <option name="PATTERN" value="LinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maximal_Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack.Maximal_Rectangle" />
+    <configuration name="LinkedList_Cycle_Detection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.LinkedList_Cycle_Detection" />
       <module name="DSA_Series" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stack.*" />
+          <option name="PATTERN" value="LinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maximum_Score_of_Good_Subarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack.Maximum_Score_of_Good_Subarray" />
+    <configuration name="Merge_two_sorted_LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.Merge_two_sorted_LinkedList" />
       <module name="DSA_Series" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stack.*" />
+          <option name="PATTERN" value="LinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Minimum_String_form_from_DI_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack.Minimum_String_form_from_DI_String" />
+    <configuration name="Middle_Element_LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.Middle_Element_LinkedList" />
       <module name="DSA_Series" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stack.*" />
+          <option name="PATTERN" value="LinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Merge_two_sorted_LinkedList" />
+        <item itemvalue="Application.LinkedList_Cycle_Detection" />
+        <item itemvalue="Application.Intrsection_LinkedList" />
+        <item itemvalue="Application.Middle_Element_LinkedList" />
         <item itemvalue="Application.Node_Client" />
-        <item itemvalue="Application.Minimum_String_form_from_DI_String" />
-        <item itemvalue="Application.Maximum_Score_of_Good_Subarray" />
-        <item itemvalue="Application.Maximal_Rectangle" />
-        <item itemvalue="Application.Celebrity_Problem" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +148,10 @@
       <workItem from="1685204189885" duration="2090000" />
       <workItem from="1685611556791" duration="3522000" />
       <workItem from="1685616653161" duration="3933000" />
-      <workItem from="1685635236819" duration="4749000" />
+      <workItem from="1685635236819" duration="5451000" />
+      <workItem from="1685776428909" duration="598000" />
+      <workItem from="1685867397311" duration="8020000" />
+      <workItem from="1685891357631" duration="2362000" />
     </task>
     <servers />
   </component>
