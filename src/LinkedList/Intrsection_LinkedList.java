@@ -75,6 +75,6 @@ public class Intrsection_LinkedList {
             display(head);
             System.out.println();
             display(head2);
-            System.out.println("\n Intersection at: "+find_intersection(head,head2));
+            System.out.println("\n Found Intersection at: "+find_intersection(head,head2));
         }
     }

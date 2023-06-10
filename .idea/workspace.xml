@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3ea18e4-612a-4901-90cb-5c3321043b5b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/Intrsection_LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/LinkedList_Cycle_Detection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/Merge_two_sorted_LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/Middle_Element_LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/Sort_LinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Series/LinkedList/LinkedList_Operations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Series/LinkedList/LinkedList_Operations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Series/LinkedList/Merge_two_sorted_LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Series/LinkedList/Merge_two_sorted_LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/Floyd_Cycle_removal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/Floyd_Cycle_removal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +23,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="6c310d94-3423-4d33-a40f-025b074281fc" />
+        <option name="url" value="https://github.com/codeurritesh/DSA_Series.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="2PyQc1INjgjtwAHsxuwC3XY54mV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -52,9 +56,9 @@
       <recent name="C:\Users\Dell\Desktop\DSA_Series\LinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Merge_two_sorted_LinkedList">
-    <configuration name="Intrsection_LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList.Intrsection_LinkedList" />
+  <component name="RunManager" selected="Application.Floyd_Cycle_removal">
+    <configuration name="Floyd_Cycle_removal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.Floyd_Cycle_removal" />
       <module name="DSA_Series" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Middle_Element_LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList.Middle_Element_LinkedList" />
+    <configuration name="Reverse_LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.Reverse_LinkedList" />
       <module name="DSA_Series" />
       <extension name="coverage">
         <pattern>
@@ -105,8 +109,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Node_Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList.Node_Client" />
+    <configuration name="Sort_LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.Sort_LinkedList" />
       <module name="DSA_Series" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Floyd_Cycle_removal" />
+        <item itemvalue="Application.Reverse_LinkedList" />
+        <item itemvalue="Application.Sort_LinkedList" />
         <item itemvalue="Application.Merge_two_sorted_LinkedList" />
         <item itemvalue="Application.LinkedList_Cycle_Detection" />
-        <item itemvalue="Application.Intrsection_LinkedList" />
-        <item itemvalue="Application.Middle_Element_LinkedList" />
-        <item itemvalue="Application.Node_Client" />
       </list>
     </recent_temporary>
   </component>
@@ -151,11 +155,49 @@
       <workItem from="1685635236819" duration="5451000" />
       <workItem from="1685776428909" duration="598000" />
       <workItem from="1685867397311" duration="8020000" />
-      <workItem from="1685891357631" duration="2362000" />
+      <workItem from="1685891357631" duration="9178000" />
+      <workItem from="1686200114863" duration="588000" />
+      <workItem from="1686207462751" duration="586000" />
+      <workItem from="1686324693814" duration="1830000" />
     </task>
+    <task id="LOCAL-00001" summary="updates">
+      <created>1685894171183</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685894171183</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updates">
+      <created>1685897298253</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685897298253</updated>
+    </task>
+    <task id="LOCAL-00003" summary="reverse LL">
+      <created>1685899343701</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685899343701</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Floyd_Cycle_removal">
+      <created>1685901400495</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685901400495</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updates" />
+    <MESSAGE value="reverse LL" />
+    <MESSAGE value="Floyd_Cycle_removal" />
+    <option name="LAST_COMMIT_MESSAGE" value="Floyd_Cycle_removal" />
   </component>
 </project>

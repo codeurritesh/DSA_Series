@@ -33,6 +33,7 @@ public class Floyd_Cycle_removal {
             while(temp.next!=null){
                 temp=temp.next;
             }
+//            System.out.println(head.next.next.data);
             temp.next=head.next.next;//creating cycle
 
         }
@@ -52,30 +53,33 @@ public class Floyd_Cycle_removal {
     public Node findmeet(){
         Node slow=head;
         Node fast=head;
-        while(fast!=null || fast.next!=null){
+        while(fast!=null && fast.next!=null){
+
+//            System.out.println(slow.data);
+//            System.out.println(fast.data);
+            slow=slow.next;
+            fast=fast.next.next;
             if(fast==slow){
                 return fast;
             }
-            slow=slow.next;
-            fast=fast.next.next;
         }
         return null;
     }
         public static void main(String[] args) {
            Floyd_Cycle_removal ll=new Floyd_Cycle_removal();
-            ll.add_last(10);
-            ll.add_last(20);
-            ll.add_last(30);
-            ll.add_last(40);
-            ll.add_last(50);
-            ll.add_last(60);
-            ll.add_last(70);
-            ll.add_last(80);
+            ll.add_last(1);
+            ll.add_last(2);
+            ll.add_last(3);
+            ll.add_last(4);
+            ll.add_last(5);
+            ll.add_last(6);
+            ll.add_last(7);
+            ll.add_last(8);
             ll.create_Cycle();
 //            ll.findmeet();
-            System.out.println(ll.findmeet().data);
+            System.out.println(ll.findmeet().data);//10
             ll.remove_cycle();
-            System.out.println(ll.findmeet().data);
+            System.out.println(ll.findmeet().data);//10
 //            ll.display();
 //            ll.display();
 
