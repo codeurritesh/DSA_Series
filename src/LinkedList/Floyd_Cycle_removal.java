@@ -67,7 +67,7 @@ public class Floyd_Cycle_removal {
     }
         public static void main(String[] args) {
            Floyd_Cycle_removal ll=new Floyd_Cycle_removal();
-            ll.add_last(1);
+            ll.add_last(10);
             ll.add_last(2);
             ll.add_last(3);
             ll.add_last(4);
