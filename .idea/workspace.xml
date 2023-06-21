@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3ea18e4-612a-4901-90cb-5c3321043b5b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Binary_tree/Binary_search_client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Binary_tree/Binary_tree_basics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Binary_tree/Preorder_traversal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +55,7 @@
       <recent name="C:\Users\Dell\Desktop\DSA_Series\LinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Binary_search_client">
+  <component name="RunManager" selected="Application.Preorder_traversal">
     <configuration name="Binary_search_client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Binary_tree.Binary_search_client" />
       <module name="DSA_Series" />
@@ -83,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Merge_two_sorted_LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList.Merge_two_sorted_LinkedList" />
+    <configuration name="Preorder_traversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Binary_tree.Preorder_traversal" />
       <module name="DSA_Series" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedList.*" />
+          <option name="PATTERN" value="Binary_tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Preorder_traversal" />
         <item itemvalue="Application.Binary_search_client" />
         <item itemvalue="Application.Floyd_Cycle_removal" />
         <item itemvalue="Application.Reverse_LinkedList" />
         <item itemvalue="Application.Sort_LinkedList" />
-        <item itemvalue="Application.Merge_two_sorted_LinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -160,6 +159,7 @@
       <workItem from="1686207462751" duration="586000" />
       <workItem from="1686324693814" duration="1830000" />
       <workItem from="1687018850143" duration="2799000" />
+      <workItem from="1687336731610" duration="1340000" />
     </task>
     <task id="LOCAL-00001" summary="updates">
       <created>1685894171183</created>
