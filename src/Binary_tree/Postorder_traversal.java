@@ -1,6 +1,6 @@
 package Binary_tree;
 import java.util.*;
-public class Inorder_traversal {
+public class Postorder_traversal {
         Scanner sc=new Scanner(System.in);
         class node{
             int data;
@@ -8,7 +8,7 @@ public class Inorder_traversal {
             node right;
         }
         private node root;
-        public Inorder_traversal(){
+        public Postorder_traversal(){
             this.root=createtree();
         }
         private node createtree(){
@@ -25,21 +25,21 @@ public class Inorder_traversal {
             }
             return nn;
         }
-        public void inorder(){
-            inorder(this.root);
+        public void Postorder(){
+            postorder(this.root);
         }
-        private void inorder(node root){
+        private void postorder(node root){
             if(root==null){
                 return;
             }
-
-            inorder(root.left);
+            postorder(root.left);
+            postorder(root.right);
             System.out.println(root.data);
-            inorder(root.right);
         }
+
         public static void main(String[] args) {
-            Inorder_traversal obj=new Inorder_traversal();
-            obj.inorder();
+            Postorder_traversal obj=new Postorder_traversal();
+            obj.Postorder();
         }
     }
 

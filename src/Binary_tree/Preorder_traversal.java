@@ -22,7 +22,7 @@ public class Preorder_traversal {
             nn.left=createtree();
         }
         boolean hasrightchild=sc.nextBoolean();
-        if(hasleftchild){
+        if(hasrightchild){
             nn.right=createtree();
         }
         return nn;

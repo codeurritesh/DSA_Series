@@ -22,7 +22,7 @@ public class Binary_tree_basics {
             nn.left=createtree();
         }
         boolean hasrightchild=sc.nextBoolean();
-        if(hasleftchild){
+        if(hasrightchild){
             nn.right=createtree();
         }
         return nn;
