@@ -26,29 +26,23 @@ public class Optimal_diameter_btree {
         return nn;
     }
     class diapair{
-        int height=-1;
-        
+        int ht=-1;
+        int d=0;
     }
     public int diameter(){
-        return diameter(this.root);
+        return diameter(this.root).d;
     }
-    private int diameter(node root){
-        if(root==null){
-            return 0;
-        }
-        int ld=diameter(root.left);
-        int rd=diameter(root.right);
-        int sd=height(root.left)+height(root.right)+2;
-        return sd;
-    }
-
-    private int height(node nn){
-        if(nn==null){
-            return -1;
-        }
-        int lheight=height(nn.left);
-        int rheight=height(nn.right);
-        return Math.max(lheight,rheight)+1;
+    private diapair diameter(node root){
+      if(root==null){
+          return new diapair();
+      }
+      diapair ld=diameter(root.left);
+      diapair rd=diameter(root.right);
+      diapair sd=new diapair();
+       sd.ht=Math.max(ld.ht,rd.ht)+1;
+       int dia=ld.ht+rd.ht+2;
+       sd.d=Math.max(dia,Math.max(ld.d,rd.d));
+       return sd;
     }
 
     public static void main(String[] args) {
