@@ -1,5 +1,7 @@
 package Binary_tree;
 
+import java.util.Scanner;
+
 public class Lowest_common_ancestor {
     Scanner sc=new Scanner(System.in);
     class node{
@@ -8,7 +10,7 @@ public class Lowest_common_ancestor {
         node right;
     }
     private node root;
-    public IsBallanced_binaryTree(){
+    public Lowest_common_ancestor(){
         this.root=createtree();
     }
     private node createtree(){
@@ -25,27 +27,30 @@ public class Lowest_common_ancestor {
         }
         return nn;
     }
-    class isbalancepair{
-        int ht=-1;
-        boolean isbal=true;
+
+    public int LCA(int p,int q){
+        return LCA(this.root,p,q).data;
     }
-    public boolean isbalanced(){
-        return isbalanced(this.root).isbal;
-    }
-    private isbalancepair isbalanced(node root){
+    private node LCA(node root,int p,int q){
         if(root==null){
-            return new isbalancepair();
+            return null;
         }
-        isbalancepair lbp=isbalanced(root.left);
-        isbalancepair rbp=isbalanced(root.right);
-        isbalancepair sbp=new isbalancepair();
-        sbp.ht=Math.max(lbp.ht,rbp.ht)+1;
-        int bf=Math.abs(lbp.ht-rbp.ht);
-        sbp.isbal= lbp.isbal && rbp.isbal && bf<=1;
-        return sbp;
+        if(root.data==p || root.data==q){
+            return root;
+        }
+        node left=LCA(root.left,p,q);
+        node right=LCA(root.right,p,q);
+        if(left!=null && right!=null){
+            return root;
+        }
+        if(left==null){
+            return right;
+        }else{
+            return left;
+        }
     }
     public static void main(String[] args) {
-        IsBallanced_binaryTree obj=new IsBallanced_binaryTree();
-        System.out.println(obj.isbalanced());
+        Lowest_common_ancestor obj=new Lowest_common_ancestor();
+        System.out.println(obj.LCA(2,9));
     }
 }

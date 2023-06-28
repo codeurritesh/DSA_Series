@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3ea18e4-612a-4901-90cb-5c3321043b5b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Binary_tree/IsBallanced_binaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Binary_tree/Lowest_common_ancestor.java" afterDir="false" />
+    <list default="true" id="e3ea18e4-612a-4901-90cb-5c3321043b5b" name="Changes" comment="Floyd_Cycle_removal">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Binary_tree/Path_Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Binary_tree/Path_Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Binary_tree/Lowest_common_ancestor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Binary_tree/Lowest_common_ancestor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +22,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
@@ -57,7 +63,7 @@
       <recent name="C:\Users\Dell\Desktop\DSA_Series\LinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IsBallanced_binaryTree">
+  <component name="RunManager" selected="Application.Lowest_common_ancestor">
     <configuration name="Diameter_Btree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Binary_tree.Diameter_Btree" />
       <module name="DSA_Series" />
@@ -84,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Levelorder_traversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Binary_tree.Levelorder_traversal" />
+    <configuration name="Lowest_common_ancestor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Binary_tree.Lowest_common_ancestor" />
       <module name="DSA_Series" />
       <extension name="coverage">
         <pattern>
@@ -125,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lowest_common_ancestor" />
         <item itemvalue="Application.IsBallanced_binaryTree" />
         <item itemvalue="Application.Sum_root_to_leaf_numbers" />
         <item itemvalue="Application.Path_Sum" />
         <item itemvalue="Application.Diameter_Btree" />
-        <item itemvalue="Application.Levelorder_traversal" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +170,7 @@
       <workItem from="1687336731610" duration="5828000" />
       <workItem from="1687712018796" duration="1921000" />
       <workItem from="1687936950493" duration="374000" />
-      <workItem from="1687969348226" duration="1263000" />
+      <workItem from="1687969348226" duration="2382000" />
     </task>
     <task id="LOCAL-00001" summary="updates">
       <created>1685894171183</created>
