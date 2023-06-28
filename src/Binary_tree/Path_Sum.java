@@ -28,7 +28,7 @@ public class Path_Sum {
         return nn;
     }
     public void pathsum(int sum){
-        System.out.print(pathsum(this.root,sum));
+        System.out.println(pathsum(this.root,sum));
     }
     private boolean pathsum(node root,int sum){
         if(root==null){
