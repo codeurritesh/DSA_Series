@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3ea18e4-612a-4901-90cb-5c3321043b5b" name="Changes" comment="Floyd_Cycle_removal">
-      <change afterPath="$PROJECT_DIR$/src/Binary_tree/Mirror_Binary_tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Binary_tree/Flip_equivalent_binary_tree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,9 +63,9 @@
       <recent name="C:\Users\Dell\Desktop\DSA_Series\LinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Mirror_Binary_tree">
-    <configuration name="IsBallanced_binaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Binary_tree.IsBallanced_binaryTree" />
+  <component name="RunManager" selected="Application.Flip_equivalent_binary_tree">
+    <configuration name="Flip_equivalent_binary_tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Binary_tree.Flip_equivalent_binary_tree" />
       <module name="DSA_Series" />
       <extension name="coverage">
         <pattern>
@@ -132,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Flip_equivalent_binary_tree" />
         <item itemvalue="Application.Mirror_Binary_tree" />
         <item itemvalue="Application.Lowest_comman_ancestor_2" />
         <item itemvalue="Application.String_operations_0_ans_1" />
         <item itemvalue="Application.Lowest_common_ancestor" />
-        <item itemvalue="Application.IsBallanced_binaryTree" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +172,7 @@
       <workItem from="1687936950493" duration="374000" />
       <workItem from="1687969348226" duration="2382000" />
       <workItem from="1688133569240" duration="3406000" />
-      <workItem from="1688488195602" duration="1358000" />
+      <workItem from="1688488195602" duration="2461000" />
     </task>
     <task id="LOCAL-00001" summary="updates">
       <created>1685894171183</created>
