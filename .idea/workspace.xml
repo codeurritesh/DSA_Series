@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3ea18e4-612a-4901-90cb-5c3321043b5b" name="Changes" comment="Floyd_Cycle_removal">
+      <change afterPath="$PROJECT_DIR$/src/Binary_tree/Lowest_comman_ancestor_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Binary_tree/String_operations_0_ans_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Binary_tree/Lowest_common_ancestor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Binary_tree/Lowest_common_ancestor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,9 +64,9 @@
       <recent name="C:\Users\Dell\Desktop\DSA_Series\LinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lowest_common_ancestor">
-    <configuration name="Diameter_Btree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Binary_tree.Diameter_Btree" />
+  <component name="RunManager" selected="Application.Lowest_comman_ancestor_2">
+    <configuration name="IsBallanced_binaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Binary_tree.IsBallanced_binaryTree" />
       <module name="DSA_Series" />
       <extension name="coverage">
         <pattern>
@@ -77,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsBallanced_binaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Binary_tree.IsBallanced_binaryTree" />
+    <configuration name="Lowest_comman_ancestor_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Binary_tree.Lowest_comman_ancestor_2" />
       <module name="DSA_Series" />
       <extension name="coverage">
         <pattern>
@@ -103,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Path_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Binary_tree.Path_Sum" />
+    <configuration name="String_operations_0_ans_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Binary_tree.String_operations_0_ans_1" />
       <module name="DSA_Series" />
       <extension name="coverage">
         <pattern>
@@ -131,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lowest_comman_ancestor_2" />
+        <item itemvalue="Application.String_operations_0_ans_1" />
         <item itemvalue="Application.Lowest_common_ancestor" />
         <item itemvalue="Application.IsBallanced_binaryTree" />
         <item itemvalue="Application.Sum_root_to_leaf_numbers" />
-        <item itemvalue="Application.Path_Sum" />
-        <item itemvalue="Application.Diameter_Btree" />
       </list>
     </recent_temporary>
   </component>
@@ -171,6 +172,8 @@
       <workItem from="1687712018796" duration="1921000" />
       <workItem from="1687936950493" duration="374000" />
       <workItem from="1687969348226" duration="2382000" />
+      <workItem from="1688133569240" duration="3406000" />
+      <workItem from="1688488195602" duration="690000" />
     </task>
     <task id="LOCAL-00001" summary="updates">
       <created>1685894171183</created>
