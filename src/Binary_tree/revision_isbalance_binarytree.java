@@ -31,7 +31,7 @@ public class revision_isbalance_binarytree {
     public boolean isbal(){
         return isbal(this.root);
     }
-    private boolean isbal(node root){
+    private boolean isbal(node root){//O(n^2)
         if(root==null){
             return true;
         }
