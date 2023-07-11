@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3ea18e4-612a-4901-90cb-5c3321043b5b" name="Changes" comment="Floyd_Cycle_removal">
-      <change afterPath="$PROJECT_DIR$/src/Binary_tree/Trie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Binary_tree/revision_isbalance_binarytree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Binary_tree/LevelOrder_BinaryTree_Build.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,9 +64,22 @@
       <recent name="C:\Users\Dell\Desktop\DSA_Series\LinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.revision_isbalance_binarytree">
+  <component name="RunManager" selected="Application.LevelOrder_BinaryTree_Build">
     <configuration name="Flip_equivalent_binary_tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Binary_tree.Flip_equivalent_binary_tree" />
+      <module name="DSA_Series" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Binary_tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LevelOrder_BinaryTree_Build" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Binary_tree.LevelOrder_BinaryTree_Build" />
       <module name="DSA_Series" />
       <extension name="coverage">
         <pattern>
@@ -105,19 +117,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String_operations_0_ans_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Binary_tree.String_operations_0_ans_1" />
-      <module name="DSA_Series" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Binary_tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="revision_isbalance_binarytree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Binary_tree.revision_isbalance_binarytree" />
       <module name="DSA_Series" />
@@ -133,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LevelOrder_BinaryTree_Build" />
         <item itemvalue="Application.revision_isbalance_binarytree" />
         <item itemvalue="Application.Flip_equivalent_binary_tree" />
         <item itemvalue="Application.Mirror_Binary_tree" />
         <item itemvalue="Application.Lowest_comman_ancestor_2" />
-        <item itemvalue="Application.String_operations_0_ans_1" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +175,8 @@
       <workItem from="1688133569240" duration="3406000" />
       <workItem from="1688488195602" duration="4248000" />
       <workItem from="1688541681109" duration="1524000" />
-      <workItem from="1688742866354" duration="2278000" />
+      <workItem from="1688742866354" duration="3699000" />
+      <workItem from="1689094860087" duration="1774000" />
     </task>
     <task id="LOCAL-00001" summary="updates">
       <created>1685894171183</created>
