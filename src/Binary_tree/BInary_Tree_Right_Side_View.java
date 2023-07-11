@@ -28,29 +28,28 @@ public class BInary_Tree_Right_Side_View {
             return nn;
         }
 
-        public boolean rightview(){
-             rightview(this.root);
+        public void rightview(){
+             rightview(this.root,0);
         }
         static int maxdepth=-1;
-        private void rightview(node root){//O(n^2)
-            if(root==null){
+        private void rightview(node root,int cdepth) {//O(n^2)
+            if (root == null) {
                 return;
             }
-
-
-        }
-        private int height(node root){
-            if(root==null){
-                return -1;
+            if (cdepth > maxdepth) {
+                System.out.println(root.data);
+                maxdepth=cdepth;
             }
-            int right=height(root.right);
-            int left=height(root.left);
-            return Math.max(right,left)+1;
+            rightview(root.right,cdepth+1);
+            rightview(root.left,cdepth+1);
+
+
         }
+
         public static void main(String[] args) {
-            revision_isbalance_binarytree obj=new revision_isbalance_binarytree();
-            System.out.println(obj.isbal());
+            BInary_Tree_Right_Side_View obj=new BInary_Tree_Right_Side_View();
+            obj.rightview();
         }
     }
 
-}
+
