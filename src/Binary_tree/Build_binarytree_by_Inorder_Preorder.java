@@ -13,7 +13,7 @@ public class Build_binarytree_by_Inorder_Preorder {
 
     public void buildtree(int preorder[],int inorder[]){
         node rootpoint=buildtree(preorder,0,preorder.length-1,inorder,0,inorder.length-1);
-        System.out.println(rootpoint.data);
+        
         display(rootpoint);
     }
     private node buildtree(int[] preorder,int plo,int phi,int[] inorder,int ilo,int ihi){
