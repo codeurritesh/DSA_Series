@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3ea18e4-612a-4901-90cb-5c3321043b5b" name="Changes" comment="Floyd_Cycle_removal">
-      <change afterPath="$PROJECT_DIR$/src/Binary_tree/Validate_binary_search_tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Binary_tree/Build_binarytree_by_Inorder_Preorder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +64,7 @@
       <recent name="C:\Users\Dell\Desktop\DSA_Series\LinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Validate_binary_search_tree">
+  <component name="RunManager" selected="Application.Build_binarytree_by_Inorder_Preorder">
     <configuration name="BInary_Tree_Right_Side_View" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Binary_tree.BInary_Tree_Right_Side_View" />
       <module name="DSA_Series" />
@@ -77,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Flip_equivalent_binary_tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Binary_tree.Flip_equivalent_binary_tree" />
+    <configuration name="Build_binarytree_by_Inorder_Preorder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Binary_tree.Build_binarytree_by_Inorder_Preorder" />
       <module name="DSA_Series" />
       <extension name="coverage">
         <pattern>
@@ -131,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Build_binarytree_by_Inorder_Preorder" />
         <item itemvalue="Application.Validate_binary_search_tree" />
         <item itemvalue="Application.BInary_Tree_Right_Side_View" />
         <item itemvalue="Application.LevelOrder_BinaryTree_Build" />
         <item itemvalue="Application.revision_isbalance_binarytree" />
-        <item itemvalue="Application.Flip_equivalent_binary_tree" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +176,8 @@
       <workItem from="1688488195602" duration="4248000" />
       <workItem from="1688541681109" duration="1524000" />
       <workItem from="1688742866354" duration="3699000" />
-      <workItem from="1689094860087" duration="3801000" />
+      <workItem from="1689094860087" duration="4545000" />
+      <workItem from="1689611093129" duration="2596000" />
     </task>
     <task id="LOCAL-00001" summary="updates">
       <created>1685894171183</created>
