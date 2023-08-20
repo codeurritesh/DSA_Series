@@ -1,3 +1,5 @@
+package HashMap_HashSet;
+
 import java.util.HashMap;
 
 public class Longest_Consecutive_Sequence {

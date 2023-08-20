@@ -5,9 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3ea18e4-612a-4901-90cb-5c3321043b5b" name="Changes" comment="Floyd_Cycle_removal">
-      <change afterPath="$PROJECT_DIR$/src/Heap_Priority_Queue/question1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS2/DSAI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS2/DynamicStackI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS2/Final_Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS2/Function_Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS2/Genrics_Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS2/Gernrics_Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS2/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS2/PaymentMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS2/StackI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS2/Stack_Interface_use.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Series/Binary_tree/Build_binarytree_by_Inorder_Preorder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Series/Binary_tree/Build_binarytree_by_Inorder_Preorder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Series/Group_Anagrams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Series/HashMap_Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Series/Heap_Priority_Queue/question1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Series/Heap_Priority_Queue/question2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Series/Intersection_of_Two_Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Series/Set_Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HashMap-HashSet/Group_Anagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HashMap_HashSet/Group_Anagrams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HashMap-HashSet/HashMap_Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HashMap_HashSet/HashMap_Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HashMap-HashSet/Intersection_of_Two_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HashMap_HashSet/Intersection_of_Two_Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HashMap-HashSet/Longest_Consecutive_Sequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HashMap_HashSet/Longest_Consecutive_Sequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HashMap-HashSet/Set_Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HashMap_HashSet/Set_Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPS2/AbstractClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS2/AbstractClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPS2/Abstract_Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS2/Abstract_Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPS2/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS2/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPS2/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS2/Client.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,20 +88,7 @@
       <recent name="C:\Users\Dell\Desktop\DSA_Series\LinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.question2">
-    <configuration name="BInary_Tree_Right_Side_View" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Binary_tree.BInary_Tree_Right_Side_View" />
-      <module name="DSA_Series" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Binary_tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Longest_Consecutive_Sequence (1)">
     <configuration name="Build_binarytree_by_Inorder_Preorder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Binary_tree.Build_binarytree_by_Inorder_Preorder" />
       <module name="DSA_Series" />
@@ -92,15 +102,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Validate_binary_search_tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Binary_tree.Validate_binary_search_tree" />
+    <configuration name="Longest_Consecutive_Sequence (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashMap_HashSet.Longest_Consecutive_Sequence" />
       <module name="DSA_Series" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Binary_tree.*" />
+          <option name="PATTERN" value="HashMap_HashSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Longest_Consecutive_Sequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Longest_Consecutive_Sequence" />
+      <module name="DSA_Series" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -133,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Longest_Consecutive_Sequence (1)" />
+        <item itemvalue="Application.Longest_Consecutive_Sequence" />
         <item itemvalue="Application.question2" />
         <item itemvalue="Application.question1" />
         <item itemvalue="Application.Build_binarytree_by_Inorder_Preorder" />
-        <item itemvalue="Application.Validate_binary_search_tree" />
-        <item itemvalue="Application.BInary_Tree_Right_Side_View" />
       </list>
     </recent_temporary>
   </component>
@@ -184,6 +201,7 @@
       <workItem from="1691994010818" duration="1063000" />
       <workItem from="1692255608436" duration="5630000" />
       <workItem from="1692346487741" duration="1787000" />
+      <workItem from="1692524502711" duration="1185000" />
     </task>
     <task id="LOCAL-00001" summary="updates">
       <created>1685894171183</created>
