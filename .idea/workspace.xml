@@ -5,32 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3ea18e4-612a-4901-90cb-5c3321043b5b" name="Changes" comment="Floyd_Cycle_removal">
-      <change afterPath="$PROJECT_DIR$/src/OOPS2/DSAI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS2/DynamicStackI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS2/Final_Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS2/Function_Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS2/Genrics_Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS2/Gernrics_Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS2/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS2/PaymentMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS2/StackI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS2/Stack_Interface_use.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS2/Comparator_and_Comparable/CarCOmparaterPrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS2/Comparator_and_Comparable/CarComparaterColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS2/Comparator_and_Comparable/CarCompareterSpeed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS2/Comparator_and_Comparable/Employees.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Series/Group_Anagrams.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Series/HashMap_Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Series/Heap_Priority_Queue/question1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Series/Heap_Priority_Queue/question2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Series/Intersection_of_Two_Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Series/Set_Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HashMap-HashSet/Group_Anagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HashMap_HashSet/Group_Anagrams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HashMap-HashSet/HashMap_Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HashMap_HashSet/HashMap_Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HashMap-HashSet/Intersection_of_Two_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HashMap_HashSet/Intersection_of_Two_Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HashMap-HashSet/Longest_Consecutive_Sequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HashMap_HashSet/Longest_Consecutive_Sequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HashMap-HashSet/Set_Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HashMap_HashSet/Set_Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPS2/AbstractClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS2/AbstractClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPS2/Abstract_Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS2/Abstract_Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPS2/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS2/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPS2/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS2/Client.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -202,6 +182,8 @@
       <workItem from="1692255608436" duration="5630000" />
       <workItem from="1692346487741" duration="1787000" />
       <workItem from="1692524502711" duration="1185000" />
+      <workItem from="1692810763969" duration="450000" />
+      <workItem from="1692984519568" duration="203000" />
     </task>
     <task id="LOCAL-00001" summary="updates">
       <created>1685894171183</created>
